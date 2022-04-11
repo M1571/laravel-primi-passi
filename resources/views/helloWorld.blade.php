@@ -5,6 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hello World</title>
+
+    <!-- ------------------------------------------------- -->
+    <!-- CSS -->
+
     <style>
         * {
             margin: 0;
@@ -24,10 +28,20 @@
         }
 
     </style>
+
+    <!-- CSS -->
+    <!-- ------------------------------------------------- -->
+
 </head>
 <body>
+
+    <!-- ------------------------------------------------- -->
+    <!-- HTML -->
     
     <h1>Hello World!</h1>
+
+    <!-- HTML -->
+    <!-- ------------------------------------------------- -->
 
 </body>
 </html>
